@@ -1,4 +1,5 @@
 {
   "name": "pouchdb-all-dbs",
-  "main": "index.d.ts"
+  "main": "index.d.ts",
+  "global": true
 }
